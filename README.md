@@ -21,7 +21,6 @@
 *   **分流管理:** 提供 WARP/WireGuard（IPv4/IPv6）、IPv6、SOCKS5、DNS、VMess+WS、SNI 反向代理等分流能力，可用于流媒体等场景.
 *   **网络策略管理:** 支持 Hysteria2 端口跳跃、域名黑名单和 BT/P2P 下载限制.
 *   **Docker Reality:** 无需域名即可通过 Docker 部署 VLESS-Reality，支持 Vision、XHTTP 或同时启用两种模式，并提供交互式和命令行参数模式.
-*   **更多内容请访问[官方网站](https://www.v2ray-agent.com/categories/jiao-cheng)、[备用](https://www.592083.com/categories/jiao-cheng)、[X](https://x.com/v2rayagent)**
 
 ## 环境要求
 
@@ -33,7 +32,7 @@
 ### 安装脚本版
 
 ```
-wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
+wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/MouJiaoZi/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 ```
 
 ### 使用
@@ -46,7 +45,7 @@ vasma
 
 ### 安装Docker版
 ```
-wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/shell/docker_reality.sh" && chmod 700 /root/docker_reality.sh && /root/docker_reality.sh
+wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/MouJiaoZi/v2ray-agent/master/shell/docker_reality.sh" && chmod 700 /root/docker_reality.sh && /root/docker_reality.sh
 ```
 
 ### 使用 
@@ -68,10 +67,6 @@ vasmad
 *   [脚本使用注意事项](https://www.v2ray-agent.com/archives/1679931532764)
 *   [脚本异常处理](https://www.v2ray-agent.com/archives/1684115970026)   
 *   [VPS选购攻略](https://www.v2ray-agent.com/archives/1679975663984)
-*   [垃圾VPS大救星，hysteria2最新协议一键搭建](https://www.v2ray-agent.com/archives/1697162969693)
-*   [RackNerd低价 联通AS4837套餐，年付10美起](https://www.v2ray-agent.com/archives/racknerdtao-can-zheng-li-nian-fu-10mei-yuan)
-*   [搬瓦工优质套餐推荐](https://www.v2ray-agent.com/archives/2023nian-ban-wa-gong-ji-fang-tui-jian)
-*   [DMIT优质套餐推荐](https://www.v2ray-agent.com/archives/1679159868033)
 
 ## 社区与支持
 
